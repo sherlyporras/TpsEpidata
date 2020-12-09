@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Dec 09 04:51:32 ART 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0176-467b-e00c-000004a57798 
+on database directory /home/sherly/Escritorio/escuelitaEpidata/Editorial/MyDerbyDb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5bc2b487 
+Loaded from file:/home/sherly/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Ubuntu
+java.runtime.version=11.0.5+10-post-Ubuntu-2ubuntu116.04
+user.dir=/home/sherly/Escritorio/escuelitaEpidata/Editorial
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-126-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
